@@ -1,0 +1,28 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+England/London
+Australia/Canberra
+Thailand/Bangkok
+Japan/Tokyo  
+South Korea/Seoul  
+Russia/Moscow  
+Germany/Berlin  
+Italy/Rome  
+Spain/Madrid  
+Brazil/Brasília  
+Canada/Ottawa  
+United States/Washington, D.C.  
+Mexico/Mexico City  
+Nepal/Kathmandu  
+Sri Lanka/Sri Jayawardenepura Kotte  
+Bangladesh/Dhaka  
+Afghanistan/Kabul  
+Bhutan/Thimphu  
+Pakistan/Islamabad  
+Iraq/Baghdad  
+Iran/Tehran  
+Indonesia/Jakarta  
+Malaysia/Kuala Lumpur
